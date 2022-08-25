@@ -1,0 +1,7 @@
+{
+  "name": "Phomapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
