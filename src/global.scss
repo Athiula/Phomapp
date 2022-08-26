@@ -24,3 +24,11 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+.toast-bg{
+  width: 140px;
+  color: rgb(69, 168, 224);
+  font-size: 1.2em;
+  padding: 8px;
+  margin-top: -60px;
+}
